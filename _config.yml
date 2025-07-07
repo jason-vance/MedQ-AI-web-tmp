@@ -48,15 +48,15 @@ features                                  :
 
   - title                                 : Discover your weakest subjects using AI
     description                           : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : search
 
   - title                                 : Interactive social learning community
     description                           : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : share-alt
 
   - title                                 : Integrated medical media streaming
     description                           : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : play-circle
   
   - title                                 : # New Feature Title
     description                           : # New Feature Description
