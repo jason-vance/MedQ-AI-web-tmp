@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The smartest emergency medicine education tool.
+app_description                           : Clinicians have found a smarter way to learn.\n\nMedQ AI is a next-generation medical education platform powered by an AI engine that transforms detailed user performance data into targeted multimedia learning experiences.\n\nFor emergency medicine doctors of all levels of training, nurses and PAs, MedQ-AI is the first sophisticated education tool teaching to your knowledge gaps.\n\nWe guarantee improved Board scores and in-service exam pass rates.\nWe promise you will stand apart as a WORLD-CLASS clinician with MedQ.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -38,24 +38,24 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Smarter Learning with MedQ-AI
-    description                           : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title                                 : Self-study quizzes include only the most updated scientific literature.
+    description                           : EM board prep and in-service exam focused with a focus on medical error reduction, and bedside skills.
     fontawesome_icon_name                 : magic
     
-  - title                                 : Quiz dashboard with performance analytics
-    description                           : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title                                 : Discover your weakest subjects using AI
+    description                           : Precision Learning Tool feeds Articles and learning Videos MATCHED TO YOUR PERFORMANCE, dynamically and automatically as you work.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Discover your weakest subjects using AI
-    description                           : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    fontawesome_icon_name                 : search
+  - title                                 : More than just medicine trivia
+    description                           : Also includes high-value “non-medical” content on medical documentation, billing, patient communication strategies and professionalism.
+    fontawesome_icon_name                 : dollar-sign
 
-  - title                                 : Interactive social learning community
-    description                           : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title                                 : Social + Monetization
+    description                           : The Creator Layer is maturing with an increasing following. Social platform tab UP AND RUNNING. Early adopters hold the most opportunity to build a following on their own content.
     fontawesome_icon_name                 : share-alt
 
-  - title                                 : Integrated medical media streaming
-    description                           : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title                                 : CME Eligible Content.
+    description                           : 
     fontawesome_icon_name                 : play-circle
   
   - title                                 : # New Feature Title
