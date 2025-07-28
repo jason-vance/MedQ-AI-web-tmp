@@ -312,7 +312,6 @@ nav > ul li a:active {
 } 
 
 .appDescriptionContainer {
-	font-size: 2.5rem;
 	font-weight: normal;
 	width: 100%;
 	align-items: flex-start;
@@ -321,11 +320,21 @@ nav > ul li a:active {
 	line-height: 1.5;
 }
 
+.appSubtitle {
+	font-size: 2.5rem;
+	color: $app-description-color;
+}
+
 .appDescription {
+	font-size: 1.5rem;
 	color: $app-description-color;
 }
 
 @media only screen and (max-width: 992px) {
+
+	.appSubtitle {
+		text-align: center;
+	}
 
 	.appDescription {
 		text-align: center;
