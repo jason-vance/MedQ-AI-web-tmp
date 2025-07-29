@@ -41,15 +41,15 @@ features                                  :
 
   - title                                 : Self-study quizzes include only the most updated scientific literature.
     description                           : EM board prep and in-service exam focused with a focus on medical error reduction, and bedside skills.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : list-ol
     
   - title                                 : Discover your weakest subjects using AI
     description                           : Precision Learning Tool feeds Articles and learning Videos MATCHED TO YOUR PERFORMANCE, dynamically and automatically as you work.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : search
 
-  - title                                 : More than just medicine trivia
+  - title                                 : More than just medicine
     description                           : Also includes high-value “non-medical” content on medical documentation, billing, patient communication strategies and professionalism.
-    fontawesome_icon_name                 : dollar-sign
+    fontawesome_icon_name                 : comment-dots
 
   - title                                 : Social + Monetization
     description                           : The Creator Layer is maturing with an increasing following. Social platform tab UP AND RUNNING. Early adopters hold the most opportunity to build a following on their own content.
@@ -57,7 +57,7 @@ features                                  :
 
   - title                                 : CME Eligible Content.
     description                           : 
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : school
   
   - title                                 : # New Feature Title
     description                           : # New Feature Description
