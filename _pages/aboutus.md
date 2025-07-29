@@ -7,7 +7,7 @@ include_in_header: true
 # About Us
 
 ## Chief Medical + Executive Officer – Dr. Christopher Taicher
-![Dr. Christopher Taicher](assets/headshots/christopher-taicher.jpg)
+![Dr. Christopher Taicher](../assets/headshots/christopher-taicher.jpg)
 
 Dr. Christopher Taicher is a dual-trained physician, having completed his residency in Emergency Medicine at Harvard / Massachusetts General Hospital and Brigham and Women’s Hospital. He also holds a degree in Internal Medicine from Albert Einstein College of Medicine.
 
@@ -20,7 +20,7 @@ Dr. Taicher is also the author of the #1 Amazon Best Seller in medical education
 ---
 
 ## Chief Technical Officer + Software Engineer – Jason Vance
-![Jason Vance](assets/headshots/jason-vance.jpg)
+![Jason Vance](../assets/headshots/jason-vance.jpg)
 
 Jason Vance is a seasoned software engineer with well over a decade of experience in iOS application development. He earned his Bachelor’s degree in Computer Science from Weber State University and has spent most of his career building fitness and health-focused apps for one of the world’s leading connected fitness companies, where he played a key role in creating mobile experiences used by millions.
 
