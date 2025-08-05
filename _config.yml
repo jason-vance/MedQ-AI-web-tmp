@@ -13,8 +13,8 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.jpg                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : MedQ-AI                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_subtitle                              : Clinicians have found a smarter way to learn.
-app_description                           : MedQ AI is a next-generation medical education platform powered by an AI engine that transforms detailed user performance data into targeted multimedia learning experiences. For emergency medicine doctors of all levels of training, nurses and PAs, MedQ-AI is the first sophisticated education tool teaching to your knowledge gaps. We guarantee improved Board scores and in-service exam pass rates. We promise you will stand apart as a WORLD-CLASS clinician with MedQ.
+app_subtitle                              : Study like a World-Class MD.
+app_description                           : 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -42,18 +42,22 @@ features                                  :
   - title                                 : Self-study quizzes include only the most updated scientific literature.
     description                           : EM board prep and in-service exam focused with a focus on medical error reduction, and bedside skills.
     fontawesome_icon_name                 : list-ol
+
+  - title                                 : From GLP-1s to riot munitions.
+    description                           : MedQ-AI delivers up-to-the-minute education on the hottest clinical controversies and emerging threats. Whether it's mRNA vaccine complications, SGLT2 risks, or managing measles in a shifting public health landscape, we keep emergency clinicians ahead of the curve.
+    fontawesome_icon_name                 : lightbulb
     
   - title                                 : Discover your weakest subjects using AI
     description                           : Precision Learning Tool feeds Articles and learning Videos MATCHED TO YOUR PERFORMANCE, dynamically and automatically as you work.
     fontawesome_icon_name                 : search
 
-  - title                                 : More than just medicine
-    description                           : Also includes high-value “non-medical” content on medical documentation, billing, patient communication strategies and professionalism.
-    fontawesome_icon_name                 : comment-dots
-
   - title                                 : Social + Monetization
     description                           : The Creator Layer is maturing with an increasing following. Social platform tab UP AND RUNNING. Early adopters hold the most opportunity to build a following on their own content.
     fontawesome_icon_name                 : share-alt
+
+  - title                                 : More than just medicine
+    description                           : Also includes high-value “non-medical” content on medical documentation, billing, patient communication strategies and professionalism.
+    fontawesome_icon_name                 : comment-dots
 
   - title                                 : CME Eligible Content.
     description                           : Coming Soon. Earn Continuing Medical Education (CME) credits directly within the app as you learn, making every study session count toward your professional requirements.
