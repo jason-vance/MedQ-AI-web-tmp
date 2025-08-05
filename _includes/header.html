@@ -1,4 +1,62 @@
 <header>
+	<div class="square">
+		<i class="fas fa-star"></i>
+	</div>
+
+	<script>
+		const backgroundColors = ['red', 'blue', 'yellow', 'green', 'orange', 'purple', 'pink'];
+		const iconColors = ['red', 'blue', 'yellow', 'green', 'orange', 'purple', 'white'];
+		const icons = [
+			'fa-star',
+			'fa-heart',
+			'fa-bell',
+			'fa-car',
+			'fa-bolt',
+			'fa-leaf',
+			'fa-sun',
+			'fa-moon',
+			'fa-apple-whole',
+			'fa-fish'
+		];
+
+		const square = document.querySelector('.square');
+		const icon = document.querySelector('.square i');
+
+		function randomFromArray(arr, exclude) {
+			let item;
+			do {
+				item = arr[Math.floor(Math.random() * arr.length)];
+			} while (item === exclude); // avoid repeat
+			return item;
+		}
+
+		let lastBgColor = null;
+		let lastIconColor = null;
+		let lastIconClass = null;
+
+		function changeRandom() {
+			// Change background color
+			const bgColor = randomFromArray(backgroundColors, lastBgColor);
+			square.style.backgroundColor = bgColor;
+			lastBgColor = bgColor;
+
+			// Change icon color
+			const iconColor = randomFromArray(iconColors, lastIconColor);
+			icon.style.color = iconColor;
+			lastIconColor = iconColor;
+
+			// Change icon symbol
+			const newIconClass = randomFromArray(icons, lastIconClass);
+			icon.className = `fas ${newIconClass}`;
+			lastIconClass = newIconClass;
+		}
+
+		// Initial setup
+		changeRandom();
+
+		// Change every second
+		setInterval(changeRandom, 500);
+	</script>
 	<div class="logo">
 		<div class="appIconShadow">
 			<svg width="0" height="0">
