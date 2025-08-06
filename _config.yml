@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 
 app_icon                                  : assets/appicon.jpg                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : MedQ-AI                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_subtitle                              : Study like a World-Class MD.
 app_description                           : 
 
