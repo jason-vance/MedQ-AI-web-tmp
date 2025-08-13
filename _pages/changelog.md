@@ -10,7 +10,7 @@ include_in_header: true
 <br>
 
 ### `Latest`
-# **Version 2.1**
+# **Version 1.0**
 We’ve been hard at work making your learning experience smoother, faster, and more enjoyable! Here’s what’s new:
 
 #### What's New
