@@ -351,6 +351,12 @@ nav > ul li a:active {
 	color: $app-description-color;
 }
 
+.appPunchline {
+	font-size: 2rem;
+	font-weight: bold;
+	color: $app-description-color;
+}
+
 @media only screen and (max-width: 992px) {
 
 	.appSubtitle {
