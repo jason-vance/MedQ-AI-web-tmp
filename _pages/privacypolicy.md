@@ -53,4 +53,4 @@ Any changes will be posted on this page with an updated effective date.
 
 
 For any questions or concerns regarding this Privacy Policy, please contact us at
-[outofthestoneage@gmail.com].
+[support@medq-ai.com].
